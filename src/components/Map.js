@@ -3,7 +3,7 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 import ChangeMapView from './ChangeMapView'
 import { Icon } from 'leaflet'
-import icon from '../images/icon-arrow.svg'
+import icon from '../images/icon-location.svg'
 const Map = ({coordinates}) => {
   return (
     <div className='h-2/3 relative z-0 lg:h-full'>

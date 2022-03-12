@@ -5,13 +5,15 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 ## Overview
 React app that uses IP Geolocation API and LeafletJS to display the details about an IP Address along with its location on the map.
 
-### Screenshot
+_Please change to a browser that doesn't block third party trackers before accessing the live site._
 
-![](./screenshot.jpg)
+### Screenshot
+![Screenshot 2022-03-13 034934](https://user-images.githubusercontent.com/56875618/158037013-4e749638-2b2a-4e60-9404-77402154944a.png)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/react-ip-address-tracker-B7X1UrFdT)
+- [Live Site URL](https://react-ip-address-tracker-nine.vercel.app/)
 
 ### Built with
 

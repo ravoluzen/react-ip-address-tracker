@@ -18,7 +18,7 @@ function App() {
 
   const getIpDetails = async() => {
     const address = await inputForm.current.value;
-    const API_URL = "https://geo.ipify.org/api/v2/country,city?apiKey=at_gi0URkczVtbYHYKkRYUASfxkvrdAM&ipAddress=";
+    const API_URL = "https://geo.ipify.org/api/v2/country,city?apiKey=at_IeCh178Sg1xcwQoIsI16XaomlRKOm";
     const response = await fetch(API_URL + address)
     const data = await response.json()
 
